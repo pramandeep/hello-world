@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar
-Hello again
+Hello again!
